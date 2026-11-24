@@ -131,3 +131,7 @@ Add `-v` only when you intend to discard the lab's stored Prometheus samples.
 ## Operational evidence
 
 See the [incident runbook](observability/RUNBOOK.md) and [verification record](docs/verification.md). The Python and alert-rule checks passed before publication; the standalone repository workflow separately verifies its container stack.
+
+## Licence
+
+MIT. See [LICENSE](LICENSE).
